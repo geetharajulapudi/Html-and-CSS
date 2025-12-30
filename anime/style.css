@@ -1,0 +1,70 @@
+body
+{
+    background:url('backgroundimg.jpeg') ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.line1
+{
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    letter-spacing: 420px;
+}
+.line2
+{
+    text-align: center;
+    letter-spacing: 420px;
+}
+.line3
+{
+    text-align: center;
+    letter-spacing: 420px;
+}
+.music1
+{
+    color: black;
+    text-align: center;
+    word-spacing: 590px;
+}
+.music2
+{
+    text-align: center;
+    word-spacing: 590px;
+}
+.music3
+{
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    word-spacing: 590px;
+}
+.image
+{
+    border-radius: 20px 10px 10px 10px;
+    margin-left: 30px;
+    margin-top: 30px;
+    padding :block end 30px;
+}
+.head
+{
+    color: blueviolet;
+    background-color: aliceblue;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    text-decoration-color: black;
+     text-shadow: 1.5px 1.5px palegreen;
+}
+h2{
+  text-align: center;
+}
+.para{
+    text-align: center;
+}

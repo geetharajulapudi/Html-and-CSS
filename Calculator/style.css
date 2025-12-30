@@ -1,0 +1,23 @@
+body{
+    margin-top: 200px;
+    background-image: linear-gradient(rgb(145, 221, 127),rgb(130, 192, 215),rgb(228, 147, 202));
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 400px;
+}
+table{
+    margin-left: 680px;
+    margin-top: 60px;
+    padding: -10%;
+    transform: scale(2,2);
+}
+button:hover{
+    transform: scale(1.2,1.2);
+    background-color: rgb(15, 170, 134);
+    
+}
+input[type=text]{
+    background-image: linear-gradient(rgb(94, 144, 165),pink);
+    font-size: x-large;
+}

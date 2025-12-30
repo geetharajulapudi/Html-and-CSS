@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(gray,rgb(158, 217, 137),pink);
+    background-repeat:no-repeat;
+    background-size: cover;
+    margin-top: 300px;
+    margin-bottom: 400px;
+    font-size: x-large;
+}
+input[type=text]:hover{
+    background-color: rgb(27, 214, 180);
+     font-size: x-large;
+}
+button:hover{
+    background-color: rgb(227, 108, 108);
+    font-size: x-large;
+}

@@ -1,0 +1,198 @@
+.header{
+    display: flex;
+    background-color: rgb(12, 12, 12);
+    height: 200px;
+    margin: 5px;
+}
+nav ul li {
+    display: inline-block;
+    padding: 40px;
+}
+nav ul li a{
+    padding: 30px;
+    color: rgb(11, 11, 117);
+    text-decoration: none;
+    font-size: x-large;
+    border: 1px solid rgb(44, 42, 42);
+    border-radius: 20%;
+    background-color:rgb(81, 131, 144);
+}    
+nav{
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.grid{
+    display: grid;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: large;
+    margin-top: 10px;
+
+}
+.m{
+    margin-top: 10px;
+    margin-bottom: 2px;
+}
+#about{
+    text-align : center;
+    margin-top: 20px;
+    color: rgb(237, 44, 153);
+    padding: 10px;
+}
+h2{
+    text-align : center;
+}
+.m img{
+    border-radius: 10%;
+}
+body{
+    background-image: url('https://live.staticflickr.com/3867/32485670223_119710c44b_n.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+.para{
+    color: rgb(247, 55, 199);
+    margin-top: 5%;
+}
+.grid1{
+    padding: 10px;
+    display: grid;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 30px;
+}
+#products
+{
+    text-align: center;
+    color: rgb(211, 214, 29);
+}
+h1{
+    font-size: xx-large;
+}
+.item1 img{
+    padding: 60px;
+}
+.item2 img{
+    padding: 60px;
+}
+.item3 img{
+    padding: 60px;
+}
+.item4 img{
+    padding: 60px;
+}
+.item5 img{
+    padding: 60px;
+}
+.item6 img{
+    padding: 60px;
+}
+#menu{
+    text-align: center;
+    border-top: 0%;
+    border-bottom: 20%;
+    color: rgb(210, 195, 20);
+    padding: 2px;
+}
+.grid2{
+    border-top: 0px;
+    display: grid;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2px;
+}
+.item{
+    text-align: center;
+    padding: 60px;
+    color: rgb(211, 236, 27);
+}
+#move{
+    width: 100%;
+    height: 850px;
+    background-color: black;
+    overflow: auto auto;
+    white-space: nowrap;
+}
+#videos{
+    color: black;
+}
+h2{
+    color: rgb(208, 231, 40);
+}
+#move .slide{
+    display: inline-block;
+    overflow: auto;
+    
+   
+}
+.row{
+    display: flex;
+    text-align:center;
+    padding: 10%;
+    margin-top: -8%
+}
+form{
+    margin-top: -8%;
+    background-color: rgb(126, 191, 199);
+    color: black;
+    margin-left: 50px;
+    padding: 50px;
+    border: 4px rebeccapurple;
+    border-radius: 10px;
+    
+}
+.inputbox{
+    color: rgb(38, 243, 113);
+    width: 300px;
+    height: 80px;
+    padding: 30px;
+    margin-left: 50px;
+}
+.container{
+    margin-left: 20%;
+    border-radius: 10%;
+    margin-top: 50px;
+    border-radius: 20%;
+    font-size: large;
+}
+#contact{
+    margin-top: -15%;
+    text-align: center;
+    border-top: 0%;
+   
+    color: rgb(214, 227, 32);
+    padding: 5px;
+   
+}
+
+#reviews{
+    text-align: center;
+    color:rgb(214, 227, 32);
+    border: 10px;
+    padding: 15px;
+}
+
+.para2{
+    margin-top: 3%;
+    margin-bottom: 400px;
+}
+.grid2{
+    display: grid;
+    display: flex;
+    flex-wrap: wrap;
+}
+.para2{
+    margin-top: 2%;
+    margin-left: 2px;
+    padding: 10px;
+}
+footer1{
+    text-align: center;
+}
+footer
+{
+    height: 100px;
+    margin-top: 0px;
+
+}

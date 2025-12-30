@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(rgb(157, 116, 157),rgb(203, 126, 126),rgb(158, 89, 158));
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 300px;
+    margin-bottom: 300px;
+}
+input[type=number]:hover
+{
+    background-image: linear-gradient(rgb(159, 221, 98),rgb(89, 167, 161));
+    transform: scale(1.5,1.5);
+}
+button:hover{
+    transform: scale(1.5,1.5);
+    background-color: aqua;
+}
+h2{
+    text-shadow: 1.5px 1.5px rgb(83, 12, 12);
+}
